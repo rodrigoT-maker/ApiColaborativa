@@ -8,6 +8,7 @@ var app = builder.Build();
 
 app.UseHttpsRedirection(); // Puerto Configurado definitivamente
 
+
 var summaries = new[]
 {
     "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
