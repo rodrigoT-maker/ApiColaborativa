@@ -6,7 +6,7 @@ var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 
-app.UseHttpsRedirection(); // Puerto Configurado por Dev1
+app.UseHttpsRedirection(); // Puerto Configurado definitivamente
 
 var summaries = new[]
 {
